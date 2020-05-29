@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">TextRedactor</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="show_level_battery">Show battery level in the upper left corner</string>
+    <string name="text_color">Text color</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="new_file">New file</string>
+    <string name="enter_name_file">Enter file name</string>
+    <string name="permission_error">Denial of access\n To continue using the application, give permission to work with memory</string>
+    <string name="open">Open</string>
+    <string name="save_to">Save to</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="enter_a_new_file_name">Enter a new file name</string>
+    <string name="invalid_title_length">Invalid title length</string>
+    <string name="file_exists">A file with the same name already exists</string>
+    <string name="file_rename_successfully">File renamed successfully\!</string>
+    <string name="close">Close</string>
+    <string name="delete_this_file">Delete this file\:</string>
+    <string name="directoryPath">Directory path\:</string>
+    <string name="encoding">Encoding\:</string>
+    <string name="format">Format\:</string>
+    <string name="name">Name\:</string>
+    <string name="encoding_1">Encoding</string>
+    <string name="txt">txt</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="delete_all_files_sure">Delete all files?\nThis action cannot be undone</string>
+    <string name="delete_all_files">Delete all files</string>
+    <string name="encryption">Encryption</string>
+    <string name="replace">Replace</string>
+    <string name="found_file">Found file with the same name</string>
+    <string name="repeat">Repeat</string>
+    <string name="your_text">Your text</string>
+    <string name="number_of_times">Number of times:</string>
+    <string name="insert_color">Insert color</string>
+    <string name="insert">Insert</string>
+    <string name="add_indent">Add Indent</string>
+    <string name="encoding_converter">Encoding converter</string>
+    <string name="from">From\:</string>
+    <string name="to">To\:</string>
+    <string name="next">Next</string>
+    <string name="warning_encryption">Attention! The key is generated only 1 time. There will be no opportunity to restore it. The key affects only 1 file.</string>
+    <string name="key">Key:</string>
+    <string name="attention_decrypt">Attention! If the file you selected is not encrypted, close this dialog box. After decrypting the file, the key is no longer valid.</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="insert_date">Insert date</string>
+    <string name="select_all">Select all</string>
+    <string name="syntax">Syntax</string>
+    <string name="settings">Settings</string>
+
+    <string-array name="format">
+        <item>UTF\-8</item>
+        <item>UTF\-16</item>
+        <item>UTF\-16BE</item>
+        <item>UTF\-16LE</item>
+        <item>UTF\-32</item>
+        <item>UTF\-32BE</item>
+        <item>UTF\-32LE</item>
+        <item>ISO\-8859\-1</item>
+        <item>ISO\-8859\-2</item>
+        <item>ISO\-8859\-4</item>
+        <item>ISO\-8859\-5</item>
+        <item>ISO\-8859\-7</item>
+        <item>ISO\-8859\-9</item>
+        <item>ISO\-8859\-13</item>
+        <item>ISO\-8859\-15</item>
+        <item>windows\-1250</item>
+        <item>windows\-1251</item>
+        <item>windows\-1252</item>
+        <item>windows\-1253</item>
+        <item>windows\-1254</item>
+        <item>windows\-1257</item>
+    </string-array>
+
+    <string-array name="textSize">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+    </string-array>
+
+    <string-array name="lineSpacing">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="letterSpacing">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="textAnimation">
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>99</item>
+    </string-array>
+
+    <string-array name="repeatArray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+    </string-array>
+
+    <string-array name="syntax">
+        <item>No syntax</item>
+        <item>CSS</item>
+        <item>HTML</item>
+    </string-array>
+</resources>

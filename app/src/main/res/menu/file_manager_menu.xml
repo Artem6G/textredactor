@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:theme="@style/AppTheme">
+
+    <item
+        android:id="@+id/create_file"
+        android:orderInCategory="100"
+        android:title="@string/create"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/duplicate_file"
+        android:orderInCategory="100"
+        android:title="@string/duplicate"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/close_file"
+        android:orderInCategory="100"
+        android:title="@string/close"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/rename_file"
+        android:orderInCategory="100"
+        android:title="@string/rename"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/open_file"
+        android:orderInCategory="100"
+        android:title="@string/open"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/send_file"
+        android:orderInCategory="100"
+        android:title="Send"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/save_file"
+        android:orderInCategory="100"
+        android:title="@string/save_to"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/delete_file"
+        android:orderInCategory="100"
+        android:title="@string/delete"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/delete_all_file"
+        android:orderInCategory="100"
+        android:title="@string/delete_all_files"
+        app:showAsAction="never"
+        />
+
+</menu>

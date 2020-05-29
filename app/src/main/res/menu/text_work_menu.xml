@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:theme="@style/AppTheme">
+
+    <item
+        android:id="@+id/insert_color_work_menu"
+        android:orderInCategory="100"
+        android:title="@string/insert_color"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/insert_date_text_work_menu"
+        android:orderInCategory="100"
+        android:title="@string/insert_date"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/insert_text_work_menu"
+        android:orderInCategory="100"
+        android:title="@string/insert"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/repeat_work_menu"
+        android:orderInCategory="100"
+        android:title="@string/repeat"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/add_indent_work_menu"
+        android:orderInCategory="100"
+        android:title="@string/add_indent"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/select_all_work_menu"
+        android:orderInCategory="100"
+        android:title="Select all"
+        app:showAsAction="never"
+        />
+
+</menu>
