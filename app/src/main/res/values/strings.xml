@@ -167,7 +167,6 @@
 
     <string-array name="syntax">
         <item>No syntax</item>
-        <item>CSS</item>
         <item>HTML</item>
     </string-array>
 </resources>
